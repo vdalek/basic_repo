@@ -1,1 +1,1 @@
-# basic_repo
+The README file is created to give instructions. I am just writing this out to see if it displays properly on GitHub.
